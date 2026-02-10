@@ -38,6 +38,7 @@
 - **Fast terminal calculator** 🧮 Optimized to run in Bash, PowerShell, and Windows console. *https://github.com/RixhDev/calculator-t*
 - **Rust Password Manager** 🔐 A project focused on security, easy to use and cross-platform support, exploring best practices in Rust. *(Work-in-progress)*
 - **Local AI Model** 📱 A GNU-Linux operating system assistant. *(Work-in-progress)*
+- **ArchLinux Hyprland THEME** 📱 A dotfiles packages for Hyprland. *(Work-in-progress)*
 - **Linux Mint OS Modification** 💻 Deep customization and system-level adjustments. *(Work-in-progress)*
 - **Android OS Modification** 📱 Hard customization for installing LineageOS. *(Work-in-progress)*
 - **I create technology-focused content** 🎥 *https://www.youtube.com/@StarSecDev*
