@@ -40,7 +40,6 @@
 - **Local AI Model** 📱 A GNU-Linux operating system assistant. *(Work-in-progress)*
 - **ArchLinux Hyprland THEME** 📱 A dotfiles packages for Hyprland. *(Work-in-progress)*
 - **Linux Mint OS Modification** 💻 Deep customization and system-level adjustments. *(Work-in-progress)*
-- **Android OS Modification** 📱 Hard customization for installing LineageOS. *(Work-in-progress)*
 - **I create technology-focused content** 🎥 *https://www.youtube.com/@StarSecDev*
 - **Linux Workflow Automation** 🐧 I create custom scripts designed to streamline repetitive tasks and give a boost productivity in Linux environments. *(Work-in-progress)*
 
