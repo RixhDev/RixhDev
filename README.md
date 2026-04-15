@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Ricardo Javier
 
 ## 🚀 About Me
-- 🇨🇱 Born in Chile. I speak Spanish 🇪🇸 and English 🇺🇸.
+- 🇨🇱 Born in Chile. I speak Spanish 🇪🇸 and English fluently 🇺🇸.
 - 🎓 **Programmer Analyst** with studies in Computer Engineering
 - 🧑‍💻 Ethical Hacker (I'm reusing the term; a hacker should always be ethical)
 - 🔧 GNU/Linux power user, scripting and workflow optimization.
