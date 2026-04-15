@@ -63,5 +63,4 @@ Also...
 I am also interested in participating in science outreach initiatives and conducting research on technology and science.
 
 ## 📫 Contact
-- GitHub: [RicardoTapiaDev](https://github.com/RicardoTapiaDev)
-- Email: *rtapiacontreras26@gmail.com*
+- Email: *rtapiacontreras26@outlook.com*
