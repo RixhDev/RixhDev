@@ -37,6 +37,7 @@
 ## 💼 My projects
 - **Fast terminal calculator** 🧮 Optimized to run in Bash, PowerShell, and Windows console. *https://github.com/RixhDev/calculator-t*
 - **Rust Password Manager** 🔐 A project focused on security, easy to use and cross-platform support, exploring best practices in Rust. *(Work-in-progress)*
+- **Syscheck | System information for Windows 10/11** 💻 A PowerShell script to display system information. *https://github.com/RixhDev/Syscheck-System-information-for-Windows-10-11-*
 - **Local AI Model** 📱 A GNU-Linux operating system assistant. *(Work-in-progress)*
 - **ArchLinux Hyprland THEME** 📱 A dotfiles packages for Hyprland. *(Work-in-progress)*
 - **Linux Mint OS Modification** 💻 Deep customization and system-level adjustments. *(Work-in-progress)*
