@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Ricardo Javier
 
 ## 📃 Academic Certification's
-- Scrum
+- Scrum (by VMEdu Inc.)
 - CISCO IT Essentials
 - Basic Software Design
 - Basic Programming
