@@ -2,7 +2,7 @@
 
 ## 📃 Academic Certification's
 - Scrum
-- - CISCO IT Essentials
+- CISCO IT Essentials
 - Basic Software Design
 - Basic Programming
 
