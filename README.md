@@ -89,3 +89,4 @@ I am also interested in participating in science outreach initiatives and conduc
 
 ## 📫 Contact
 - Email: *rtapiacontreras26@outlook.com*
+- LinkedIn: *https://www.linkedin.com/in/ricardo-javier-tapia-contreras-125474257/*
