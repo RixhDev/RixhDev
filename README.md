@@ -4,11 +4,11 @@
 ## 🚀 About Me
 - 🇨🇱 Born in Chile. Native Spanish speaker 🇪🇸 and fluent in English 🇺🇸
 - 🔧 GNU-Linux power user
-- 📚 I am a person passionate about ciencie, deep learning and an explorer of the various areas where the technical and the creative intersect.
+- 📚 I am a person passionate about sciencie, deep learning and an explorer of the various areas where the technical and the creative intersect.
 - 📖 I love read books and research.
 - 📂 **Highly organized professional**, applying agile methodologies such as **Scrum** to manage projects efficiently, foster collaboration, and ensure continuous delivery of value.
-
-## 📃 Academic Certification's
+ 
+## 📃 Academic certification's
 - Scrum (by VMEdu Inc.)
 - CISCO IT Essentials
 - Basic Software Design
