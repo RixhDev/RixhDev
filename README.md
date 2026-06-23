@@ -1,21 +1,18 @@
 # Hi there 👋, I'm Ricardo Javier
+🎓 Programmer & Cybersecurity analyst | 🔧 Process automation
+---
+## 🚀 About Me
+- 🇨🇱 Born in Chile. Native Spanish speaker 🇪🇸 and fluent in English 🇺🇸
+- 🔧 GNU-Linux power user
+- 📚 I am a person passionate about ciencie, deep learning and an explorer of the various areas where the technical and the creative intersect.
+- 📖 I love read books and research.
+- 📂 **Highly organized professional**, applying agile methodologies such as **Scrum** to manage projects efficiently, foster collaboration, and ensure continuous delivery of value.
 
 ## 📃 Academic Certification's
 - Scrum (by VMEdu Inc.)
 - CISCO IT Essentials
 - Basic Software Design
 - Basic Programming
-
-## 🚀 About Me
-- 🇨🇱 Born in Chile. Native Spanish speaker 🇪🇸 and fluent in English 🇺🇸
-- 🎓 **Programmer Analyst** with studies in Computer Engineering
-- 🧑‍💻 Ethical Hacker (I emphasize “ethical” because I believe hacking should always be ETHICAL)
-- 🔧 GNU/Linux power user
-- 💻 Programmer with strong foundations in OOP, .NET (Web, Desktop, Android).
-- 📚 I am a person passionate about deep learning and an explorer of the various areas where the technical and the creative intersect.
-- 📖 I love read books and research.
-- 📂 **Highly organized professional**, applying agile methodologies such as **Scrum** to manage projects efficiently, foster collaboration, and ensure continuous delivery of value.
-
 
 ## 💻 Tech Stack (from highest to lowest mastery)
 <p align="center">
