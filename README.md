@@ -1,29 +1,29 @@
 # Hi there 👋, I'm Ricardo Tapia
-## 🛡️ Analista de Ciberseguridad Cybersecurity analyst
+## 🛡️ Analista de Ciberseguridad | Cybersecurity analyst
 ---
-Soy un analista de ciberseguridad con base sólida en **Desarrollo de software, Arquitectura de sistemas y Programación**. 
+Cuento con una base sólida en **Desarrollo de software, arquitectura de sistemas y programación**. 
 
-Mi enfoque está en el entendimiento profundo de los sistemas, el análisis de código y en entender la lógica detrás de un ciberataque. Dado mi perfil me especializo en la la implementación de controles técnicos, administración hardening de sistemas Windows/Linux, y automatización defensiva (Bash/PowerShell/Python) dentro de marcos normativos internacionales y locales como **ISO/IEC 27001, CIS Controls y Ley 21.663**.
+Mi enfoque está en el entendimiento profundo de los sistemas, el análisis de código y en entender la lógica detrás de un ciberataque. Dado mi perfil me especializo en la implementación de controles técnicos, administración y hardening de sistemas Windows/Linux junto con la automatización defensiva (Bash/PowerShell/Python) dentro de marcos normativos internacionales y locales como **ISO/IEC 27001, CIS Controls y Ley 21.663**.
  
 ## 💼 Portafolio técnico
 * **[Active Directory Provisioning & Hardening Automation Suite](https://github.com/RixhDev/AD-Hardening-Automation)**
   * **Stack:** PowerShell, Active Directory DS, GPO, Windows Server.
-  * **Descripcion:** Suite de automatización para gestionar identidades (Onboarding/Offboarding) aplicando el principio de mínimo privilegio, forzado de complejidad de contraseñas y hardening de GPOs contra ejecución remota de scripts bajo estándares **CIS Benchmarks**.
+  * **Descripción:** Suite de automatización para gestionar identidades (Onboarding/Offboarding) aplicando el principio de mínimo privilegio, forzado de complejidad de contraseñas y hardening de GPOs contra ejecución remota de scripts bajo estándares **CIS Benchmarks**.
   * **Entregables:** Script de producción, documentación de políticas y cápsula de video (*Walkthrough* de 3 min).
 
 * **[Windows Baseline Security & Automated Hardening](https://github.com/RixhDev/Windows-CIS-Hardening)**
   * **Stack:** PowerShell, Sysmon, Windows Defender, CIS Benchmarks.
-  * **Descripcion:** Script de remediación y auditoría de seguridad para estaciones Windows 10/11. Automatiza el cierre de brechas bajo CIS Benchmarks: deshabilita protocolos vulnerables (SMBv1, LLMNR), restringe autorun USB, configura logs extendidos de auditoría y habilita reglas de reducción de superficie de ataque (ASR).
-  * **Entregables:** Script de remediación en PowerShell, reporte comparativo antes/después y política de auditoría.
+  * **Descripción:** Script de solución automatizada en una auditoría de seguridad para estaciones Windows 10/11. Automatiza el cierre de brechas bajo CIS Benchmarks: Deshabilita protocolos vulnerables (Ejemplo: SMBv1, LLMNR), restringe autorun de USB, configura logs extendidos de auditoría y habilita reglas de reducción de superficie de ataque (ASR).
+  * **Entregables:** Script de auditoría en PowerShell, reporte comparativo antes/después, definición e implementación de políticas de auditoría.
 
 * **[SOC Threat Detection & Email Phishing Analyzer](https://github.com/RixhDev/SOC-Phishing-Analyzer)**
   * **Stack:** Python, Wazuh SIEM/EDR, Sysmon, Windows 11.
-  * **Descripcion:** Entorno de monitoreo especializado para captura y correlación de eventos de seguridad. Incluye un script en Python para hacer análisis automatizado de encabezados de correo (`.eml`), validación de registros SPF/DKIM/DMARC y triaje inicial de incidentes.
+  * **Descripción:** Entorno de monitoreo especializado para captura y correlación de eventos de seguridad. Incluye un script en Python para hacer análisis automatizado de encabezados de correo (`.eml`), validación de registros SPF/DKIM/DMARC y triaje inicial de incidentes.
   * **Entregables:** Reglas personalizadas de detección, parser en Python y reporte de simulación de incidentes.
 
-* **[Corporate Network Segmentation & Firewall Rule Management](https://github.com/RixhDev/Corporate-Network-Hardening)**
+* **[Segmentación de redes corporativas y reglas para administración segura de Firewall](https://github.com/RixhDev/Corporate-Network-Hardening)**
   * **Tech Stack:** pfSense, OpenVPN, TCP/IP, Rules Engine.
-  * **Descripcion:** Diseño e implementación de infraestructura de red segmentada (WAN, LAN, DMZ), aplicando tablas de ruteo estricto, inspección de tráfico y túneles VPN seguros para accesos remotos corporativos.
+  * **Descripción:** Diseño e implementación de una infraestructura de red segmentada aplicando tablas de ruteo, inspección de tráfico y túneles VPN seguros para accesos remotos corporativos.
   * **Entregables:** Diagrama de arquitectura de red (Draw.io), matriz de reglas de Firewall y guía de configuración.
   
 * **[Syscheck - Windows OS System & Security Auditor](https://github.com/RixhDev/Syscheck-System-information-for-Windows-10-11-)**
@@ -31,17 +31,17 @@ Mi enfoque está en el entendimiento profundo de los sistemas, el análisis de c
   * **Descripcion:** Script de auditoría técnica automatizada vía CLI para estaciones Windows 10/11. Extrae telemetría de red, estado de servicios críticos, parches del sistema y configuraciones de seguridad locales.
   * **Entregables:** Script ejecutable de PowerShell y documentación de recolección de eventos.
 
-* **[Fast Terminal Calculator CLI](https://github.com/RixhDev/calculator-t)**
-  * **Stack:** Shell Scripting, Cross-platform CLI (Bash / PowerShell).
-  * **Descripcion:** Calculadora optimizada de alto rendimiento y bajo consumo de recursos diseñada para ejecución directa en entornos de terminal multiplataforma.
+* **[Calculator-T (Calculadora CLI)](https://github.com/RixhDev/calculator-t)**
+  * **Stack:** Shell Scripting, Cross-platform(Bash / PowerShell).
+  * **Descripción:** Calculadora optimizada para bajo consumo de recursos diseñada para ejecución directa en entornos de terminal multiplataforma.
   * **Entregables:** Código fuente y guía de uso CLI.
 
-* **[Rust Password Manager & Security Utilities](https://github.com/RixhDev/rust-password-manager) En progreso.**
+* **[Rust Password Manager](https://github.com/RixhDev/rust-password-manager) En progreso.**
   * **Stack:** Rust, Criptografía, CLI.
-  * **Descripcion:** Gestor de contraseñas multiplataforma y herramientas de bajo nivel enfocadas en manejo seguro de memoria, cifrado local de credenciales y buenas prácticas en Rust.
+  * **Descripcion:** Gestor de contraseñas multiplataforma y herramientas de bajo nivel enfocadas en manejo seguro de memoria, cifrado fuerte de credenciales y buenas prácticas en Rust.
   * **Entregables:** Código fuente en Rust y pruebas de cifrado.
 
-* **[Local AI System Assistant for GNU/Linux](https://github.com/RixhDev/local-ai-linux-assistant)**
+* **[Asistente local de IA](https://github.com/RixhDev/local-ai-linux-assistant)**
   * **Stack:** Python, GNU/Linux Shell, Local LLM Integration.
   * **Descripcion:** Asistente ejecutable en entorno local para automatización de tareas administrativas, diagnóstico de sistema y soporte en consola GNU/Linux sin consumo de API externa.
   * **Entregables:** Scripts de integración y guía de despliegue local.
