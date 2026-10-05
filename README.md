@@ -36,7 +36,7 @@ Mi enfoque está en el entendimiento profundo de los sistemas, el análisis de c
   * **Descripcion:** Calculadora optimizada de alto rendimiento y bajo consumo de recursos diseñada para ejecución directa en entornos de terminal multiplataforma.
   * **Entregables:** Código fuente y guía de uso CLI.
 
-* **[Rust Password Manager & Security Utilities](https://github.com/RixhDev/rust-password-manager)**
+* **[Rust Password Manager & Security Utilities](https://github.com/RixhDev/rust-password-manager) En progreso.**
   * **Stack:** Rust, Criptografía, CLI.
   * **Descripcion:** Gestor de contraseñas multiplataforma y herramientas de bajo nivel enfocadas en manejo seguro de memoria, cifrado local de credenciales y buenas prácticas en Rust.
   * **Entregables:** Código fuente en Rust y pruebas de cifrado.
