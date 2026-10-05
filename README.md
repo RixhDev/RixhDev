@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Ricardo Tapia
 ## 🛡️ Analista de Ciberseguridad Cybersecurity analyst
 ---
-Soy un analista de ciberseguridad con sólida base en **desarrollo de software, arquitectura de sistemas e infraestructura**. 
+Soy un analista de ciberseguridad con base sólida en **Desarrollo de software, Arquitectura de sistemas y Programación**. 
 
 Mi enfoque está en el entendimiento profundo de los sistemas, el análisis de código y en entender la lógica detrás de un ciberataque. Dado mi perfil me especializo en la la implementación de controles técnicos, administración hardening de sistemas Windows/Linux, y automatización defensiva (Bash/PowerShell/Python) dentro de marcos normativos internacionales y locales como **ISO/IEC 27001, CIS Controls y Ley 21.663**.
  
