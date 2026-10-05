@@ -57,6 +57,8 @@ Mi enfoque está en el entendimiento profundo de los sistemas, el análisis de c
 - CISCO IT Essentials
 - Basic Software Design
 - Basic Programming
+- Rocketbot RPA Developer Lvl 1
+- Abisko Diseñador de dashboards nivel básico
 
 ## 💻 General stack de tecnologías (Dominio Alto -> Bajo)
 <p align="center">
