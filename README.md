@@ -38,17 +38,17 @@ Mi enfoque está en el entendimiento profundo de los sistemas, el análisis de c
 
 * **[Rust Password Manager](https://github.com/RixhDev/rust-password-manager) En progreso.**
   * **Stack:** Rust, Criptografía, CLI.
-  * **Descripcion:** Gestor de contraseñas multiplataforma y herramientas de bajo nivel enfocadas en manejo seguro de memoria, cifrado fuerte de credenciales y buenas prácticas en Rust.
+  * **Descripción:** Gestor de contraseñas multiplataforma y herramientas de bajo nivel enfocadas en manejo seguro de memoria, cifrado fuerte de credenciales y buenas prácticas en Rust.
   * **Entregables:** Código fuente en Rust y pruebas de cifrado.
 
-* **[Asistente local de IA](https://github.com/RixhDev/local-ai-linux-assistant)**
+* **[Asistente local de IA](https://github.com/RixhDev/PTalk-AI))**
   * **Stack:** Python, GNU/Linux Shell, Local LLM Integration.
-  * **Descripcion:** Asistente ejecutable en entorno local para automatización de tareas administrativas, diagnóstico de sistema y soporte en consola GNU/Linux sin consumo de API externa.
+  * **Descripción:** Asistente ejecutable en entorno local para automatización de tareas administrativas, diagnóstico de sistema y soporte en consola GNU/Linux sin consumo de API externa.
   * **Entregables:** Scripts de integración y guía de despliegue local.
 
 * **[Secure Web Applications for Small Business](https://github.com/RixhDev/web-projects-portfolio)**
   * **Stack:** Bootstrap, Frontend/Backend, Controles Web Defensivos.
-  * **Descripcion:** Desarrollo de aplicaciones web responsivas para pequeñas empresas integrando validaciones de entrada, protección contra OWASP Top 10 y buenas prácticas de desarrollo seguro.
+  * **Descripción:** Desarrollo de aplicaciones web responsivas para pequeñas empresas integrando validaciones de entrada, protección contra OWASP Top 10 y buenas prácticas de desarrollo seguro.
   * **Entregables:** Código fuente de aplicaciones y plantillas de despliegue.
 
 ## 📃 Certificaciones academicas
