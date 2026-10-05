@@ -93,7 +93,7 @@ Mi enfoque está en el entendimiento profundo de los sistemas, el análisis de c
 </p>
 
 ## 👤 About Me
-- 🇨🇱Español e 🇺🇸Inglés fluido (lectura técnica y comunicación).
+- 🇨🇱Español nativo e 🇺🇸Inglés fluido (lectura técnica y comunicación).
 - En mi vida diaria soy usuario activo de **🐧GNU/Linux**
 - Tengo conocimientos de administración de usuario y entornos de software en **GNU/Linux / Windows** a nivel de sistema operativo(Interfaces) y línea de comandos (CLI).
 - Fuerte orientación al desarrollo de herramientas defensivas, automatización de procesos y aportes a proyectos Open Source.
