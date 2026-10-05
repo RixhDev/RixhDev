@@ -52,7 +52,7 @@ Mi enfoque está en el entendimiento profundo de los sistemas, el análisis de c
   * **Descripcion:** Desarrollo de aplicaciones web responsivas para pequeñas empresas integrando validaciones de entrada, protección contra OWASP Top 10 y buenas prácticas de desarrollo seguro.
   * **Entregables:** Código fuente de aplicaciones y plantillas de despliegue.
 
-## 📃 Academic certification's
+## 📃 Certificaciones academicas
 - Scrum (by VMEdu Inc.)
 - CISCO IT Essentials
 - Basic Software Design
