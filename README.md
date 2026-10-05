@@ -7,7 +7,6 @@ Mi enfoque está en el entendimiento profundo de los sistemas, el análisis de c
  
 ## 💼 Portafolio técnico
 * **[Active Directory Provisioning & Hardening Automation Suite](https://github.com/RixhDev/AD-Hardening-Automation)**
-* (https://github.com/RixhDev/AD-Hardening-Automation)
   * **Stack:** PowerShell, Active Directory DS, GPO, Windows Server.
   * **Descripcion:** Suite de automatización para gestionar identidades (Onboarding/Offboarding) aplicando el principio de mínimo privilegio, forzado de complejidad de contraseñas y hardening de GPOs contra ejecución remota de scripts bajo estándares **CIS Benchmarks**.
   * **Entregables:** Script de producción, documentación de políticas y cápsula de video (*Walkthrough* de 3 min).
