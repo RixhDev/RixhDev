@@ -59,7 +59,7 @@ Mi enfoque está en el entendimiento profundo de los sistemas, el análisis de c
 - Rocketbot RPA Developer Lvl 1
 - Abisko Diseñador de dashboards nivel básico
 
-## 💻 General stack de tecnologías (Dominio Alto -> Bajo)
+## 💻 Stack general de tecnologías (Dominio Alto -> Bajo)
 <p align="center">
 <!-- GNU/Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="GNU/Linux" width="40" height="40"/>
